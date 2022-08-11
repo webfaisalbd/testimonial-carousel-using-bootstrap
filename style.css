@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(-100deg,rgb(219, 201, 201) 50%, lightblue 50%) ;
+    height: 100vh;
+}
+
+.container {
+    margin-top: 5%;
+}
